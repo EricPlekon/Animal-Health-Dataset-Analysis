@@ -1,4 +1,4 @@
-# Animal-Health-Dataset-Analysis
+# Animal Health Dataset Analysis
 
 This project contains a Jupyter Notebook for analyzing animal health dataset using python programming language. It demonstrates various data analysis techniques including data visualization, cleaning, and statistical analysis.
 
